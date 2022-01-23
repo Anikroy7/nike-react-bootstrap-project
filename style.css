@@ -1,0 +1,19 @@
+/* body{
+    background-color: aqua;
+}
+ */
+
+.header-color{
+
+    background-color:#FFF9F4;
+    
+
+}
+.title-text-color{
+  color:#FA804C;
+}
+.button-color{
+  background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+ 
+
+}
